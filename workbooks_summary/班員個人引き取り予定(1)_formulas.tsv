@@ -1,0 +1,2 @@
+sheet	cell	formula	value
+設定シート	A1	LEFT(CELL("filename",A1),FIND("[",CELL("filename",A1))-1)	C:\Users\SK070581\Desktop\聞き取り予定設計案\★元ファイル\
